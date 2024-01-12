@@ -1,0 +1,14 @@
+.actions {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.h1{
+  color:aliceblue
+}
+
+.table tr td{
+  background-color: #F6DE00;
+  color: aliceblue;
+}
